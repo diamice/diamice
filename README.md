@@ -12,6 +12,14 @@ My name is Dima, and I'm a Python developer from Moscow specializing in backend 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-008C45?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
+![AIogram](https://img.shields.io/badge/aiogram-4C8BF5?style=for-the-badge&logo=python&logoColor=white)
+![Asyncio](https://img.shields.io/badge/asyncio-3C3C3C?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/beautiful_soup-FFD700?style=for-the-badge&logo=python&logoColor=white)
+![Requests](https://img.shields.io/badge/requests-FF6F61?style=for-the-badge&logo=python&logoColor=white)
+![Aiohttp](https://img.shields.io/badge/aiohttp-0099FF?style=for-the-badge&logo=python&logoColor=white)
+
+
+
 
 
 ## 📫 Contact Me:
